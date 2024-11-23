@@ -27,7 +27,7 @@ author:
   bio              : "MA Physics student at Stony Brook University, working on redshift fitting and kinematic weak lensing"
   location         : "Stony Brook, NY"
   employer         : "Stony Brook University"
-  uri              : "astroburke.github.io"
+  uri              : # "astroburke.github.io"
   email            : "aaron.j.burke@stonybrook.edu" 
 
   # Academic websites
