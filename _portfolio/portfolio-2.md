@@ -6,22 +6,42 @@ collection: portfolio
 
 To be finished.
 
-<iframe src='/images/GaiaRenders/Export/densitymap.png' frameborder='0' width='1000' height='500'></iframe>
+<a href="/images/GaiaRenders/Export/densitymap.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/densitymap.png" width="1000" height="500">
+</a>
 
-<iframe src='/images/GaiaRenders/Export/Sgr.png' frameborder='0' width='1000' height='500'></iframe>
+<a href="/images/GaiaRenders/Export/Sgr.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/Sgr.png" width="1000" height="500">
+</a>
 
-<iframe src='/images/GaiaRenders/Export/andromeda.png' frameborder='0' width='500' height='500'></iframe>
+<a href="/images/GaiaRenders/Export/andromeda.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/andromeda.png" width="500" height="500">
+</a>
 
-<iframe src='/images/GaiaRenders/Export/triangulum.png' frameborder='0' width='500' height='500'></iframe>
+<a href="/images/GaiaRenders/Export/triangulum.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/triangulum.png" width="500" height="500">
+</a>
 
-<iframe src='/images/GaiaRenders/Export/LMC and SMC.png' frameborder='0' width='1000' height='625'></iframe>
+<a href="/images/GaiaRenders/Export/LMC and SMC.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/LMC and SMC.png" width="1000" height="625">
+</a>
 
-<iframe src='/images/GaiaRenders/Export/LMC.png' frameborder='0' width='1000' height='750'></iframe>
+<a href="/images/GaiaRenders/Export/LMC.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/LMC.png" width="1000" height="750">
+</a>
 
-<iframe src='/images/GaiaRenders/Export/LMC Zoom.png' frameborder='0' width='1000' height='1000'></iframe>
+<a href="/images/GaiaRenders/Export/LMC Zoom.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/LMC Zoom.png" width="1000" height="1000">
+</a>
 
-<iframe src='/images/GaiaRenders/Export/Tarantula Nebula.png' frameborder='0' width='1000' height='1000'></iframe>
+<a href="/images/GaiaRenders/Export/Tarantula Nebula.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/Tarantula Nebula.png" width="1000" height="1000">
+</a>
 
-<iframe src='/images/GaiaRenders/Export/radialvelocitymap.png' frameborder='0' width='1000' height='500'></iframe>
+<a href="/images/GaiaRenders/Export/radialvelocitymap.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/radialvelocitymap.png" width="1000" height="500">
+</a>
 
-<iframe src='/images/GaiaRenders/Export/metallicitymap.png' frameborder='0' width='1000' height='500'></iframe>
+<a href="/images/GaiaRenders/Export/metallicitymap.png" target="_blank">
+  <img src="/images/GaiaRenders/LowRes Export/metallicitymap.png" width="1000" height="500">
+</a>
