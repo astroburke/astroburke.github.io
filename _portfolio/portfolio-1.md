@@ -12,7 +12,7 @@ For background subtraction, there are two choices. You can perform continuum sub
 
 To improve our spectra's quality, we can perform inverse-variance weighting. Basically, we weigh high-uncertainty results (noisy areas) very little compared to low-uncertainty results (real emission lines, for example). You can see the effect this has on the following example.
 
-**HOW TO USE THE BOKEH GRAPH WIDGET:** Click and drag to move around. Use your mouse scroll wheel to zoom in and out. Use the scroll wheel on an axis to zoom in and out only in that direction. If you get lost, click the "reset" button on the right sidebar of the widget. To hide a plotted line, click that line's entry in the legend.
+**HOW TO USE THE BOKEH GRAPH WIDGET:** Click and drag to move around. Use your mouse scroll wheel to zoom in and out. **Use the scroll wheel on an axis to zoom in and out only in that direction.** If you get lost, click the "reset" button on the right sidebar of the widget. To hide a plotted line, click that line's entry in the legend.
 
 In this example you can see the effect inverse-variance weighting has on the "fake" peaks and the "real" emission lines. Can you find the \[OII\] Doublet?
 
