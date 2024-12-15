@@ -1,9 +1,7 @@
 ---
 title: "Automatic Redshift Fitter"
-excerpt: "An automatic redshift fitter. Can fit using [OII] line or using template cross-correlation."
+excerpt: "An automatic redshift fitter. Can fit using [OII] line or using template cross-correlation.<br/>{% include includes/test.html %}"
 collection: portfolio
 ---
 
-{% include /images/test.html %}
-
-Body text.
+Here is my redshift fitter.
