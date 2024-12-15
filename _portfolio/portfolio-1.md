@@ -4,6 +4,8 @@ excerpt: "Here, I demonstrate the basic workflow of an automated redshift fitter
 collection: portfolio
 ---
 
+**If you just want to see pictures, scroll down!**
+
 Manual redshift fitting takes a long time and is tedious. That's the main motivation for developing a program that can find redshifts from spectra.
 
 The preliminaries are quite straightforward. You want the input spectrum (wavelength, flux, flux error) and the template spectrum (wavelength, flux, flux error).
