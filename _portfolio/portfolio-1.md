@@ -4,8 +4,6 @@ excerpt: "An automatic redshift fitter. Can fit using [OII] line or using templa
 collection: portfolio
 ---
 
-{::html}
-<iframe src='/images/test.html' frameborder='0' width='500' height='300'></iframe>
-{:/html}
+{% include /images/test.html %}
 
 Body text.
