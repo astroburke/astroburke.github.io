@@ -18,7 +18,7 @@ In this example you can see the effect inverse-variance weighting has on the "fa
 
 <iframe src='/images/weighting.html' frameborder='0' width='1100' height='500'></iframe>
 
-Next, it is important to use a [flux conserving algorithm][https://ui.adsabs.harvard.edu/abs/2017arXiv170505165C] to properly interpolate. Why do we need to interpolate? Because the wavelength values of the template are not exactly the same as the wavelength values of the spectrum. Naively, we could use linear interpolation, but that actually doesn't conserve the flux of our spectrum. Such interpolation has very small effects our spectrum, as shown here.
+Next, it is important to use a [flux conserving algorithm](https://ui.adsabs.harvard.edu/abs/2017arXiv170505165C) to properly interpolate. Why do we need to interpolate? Because the wavelength values of the template are not exactly the same as the wavelength values of the spectrum. Naively, we could use linear interpolation, but that actually doesn't conserve the flux of our spectrum. Such interpolation has very small effects our spectrum, as shown here.
 
 <iframe src='/images/interp.html' frameborder='0' width='1100' height='500'></iframe>
 
