@@ -1,6 +1,6 @@
 ---
 title: "DY Pegasi Analysis"
-excerpt: " senior project where I concatenated a light curve for DY Pegasi and found its period and othe properties. <br/><img src='/images/curves.png'>"
+excerpt: "A senior project where I concatenated a light curve for DY Pegasi with the university telescope and found its period and other properties. <br/><img src='/images/curves.png'>"
 collection: portfolio
 ---
 
