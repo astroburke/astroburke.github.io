@@ -1,6 +1,6 @@
 ---
 title: "DY Pegasi Analysis"
-excerpt: "Here, I show off some beautiful renders of the Gaia catalog.<br/><img src='/images/curves.png'>"
+excerpt: " senior project where I concatenated a light curve for DY Pegasi and found its period and othe properties. <br/><img src='/images/curves.png'>"
 collection: portfolio
 ---
 
